@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Get the latest on Machine Learning research and advancements! 
   This blog offers in-depth analysis on new papers and their impact on the future of AI. 
   Ideal for academics, engineers, and tech enthusiasts.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://waelrahioui.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Wael Rahioui
 linkedin_username: wael-rahioui
