@@ -36,6 +36,10 @@ remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate  
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
