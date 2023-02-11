@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-#permalink: /about/
 background: '/AI-vs-Deep-Learning_Blog-scaled.jpeg'
 ---
 
